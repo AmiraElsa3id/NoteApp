@@ -123,7 +123,7 @@ console.log(values);
      
         <div className="flex items-center justify-between p-4 md:p-5 border-b rounded-t dark:border-gray-600 border-gray-200">
           <h3 className="text-lg font-semibold text-gray-900 dark:text-white">
-            Add Note
+            Update Note
           </h3>
 
          
@@ -159,7 +159,7 @@ console.log(values);
             loading?<i className="fa fa-spin fa-spinner"></i>
             :
             <> <i className="fa fa-plus align-middle"></i>
-            Add 
+            update 
             </>
           }
          
